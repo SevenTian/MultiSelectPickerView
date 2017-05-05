@@ -3,4 +3,4 @@
 
 效果图
 ![image](https://github.com/SevenTian/MultiSelectPickerView/raw/master/preview/1.png)
-![image](https://github.com/SevenTian/MultiSelectPickerView/preview/2.png)
+![image](https://github.com/SevenTian/MultiSelectPickerView/raw/master/preview/2.png)
